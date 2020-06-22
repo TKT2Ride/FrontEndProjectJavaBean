@@ -135,6 +135,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Grant About the School\Grant About the School.html" />
+    <Content Include="Grant About the School\JavaScript.js" />
     <Content Include="IMAGE_CONTENT\Code the Way\Code Review.jpg" />
     <Content Include="IMAGE_CONTENT\Code the Way\CodeTheWay Logo.png" />
     <Content Include="IMAGE_CONTENT\Code the Way\CTWMission.txt" />
@@ -154,6 +156,7 @@
     <Content Include="IMAGE_CONTENT\Heroes for Healthcare\Heroes2.png" />
     <Content Include="IMAGE_CONTENT\Heroes for Healthcare\Heroes3.png" />
     <Content Include="IMAGE_CONTENT\Heroes for Healthcare\HeroesforHealthcareMission.txt" />
+    <Content Include="IMAGE_CONTENT\Image\jean-philippe-delberghe-75xPHEQBmvA-unsplash[1373].jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators1.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators2.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators3.jpg" />
@@ -173,6 +176,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Style Tile\Style Tile.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
