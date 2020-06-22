@@ -127,6 +127,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AkashHome\HomePage.html" />
+    <Content Include="AkashHome\HomePageStyle.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -150,6 +152,9 @@
     <Content Include="IMAGE_CONTENT\Code the Way\To do list.jpg" />
     <Content Include="IMAGE_CONTENT\Code the Way\Update.jpg" />
     <Content Include="IMAGE_CONTENT\Code the Way\Work Time.jpg" />
+    <Content Include="IMAGE_CONTENT\FEPFiles\YaleArtLogo.png" />
+    <Content Include="IMAGE_CONTENT\FEPFiles\yaleCampus.jpg" />
+    <Content Include="IMAGE_CONTENT\FEPFiles\yaleCampus2.jpg" />
     <Content Include="IMAGE_CONTENT\Heroes for Healthcare\Heroes Logo.png" />
     <Content Include="IMAGE_CONTENT\Heroes for Healthcare\Heroes2.png" />
     <Content Include="IMAGE_CONTENT\Heroes for Healthcare\Heroes3.png" />
